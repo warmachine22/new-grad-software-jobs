@@ -8,5 +8,6 @@ Published site: https://warmachine22.github.io/new-grad-software-jobs/
 
 Current snapshots:
 
+- `jobs/2026-07-26.html`: 37 new direct application links, deduplicated against both earlier snapshots
 - `jobs/2026-07-21.html`: 58 updated matches
 - `jobs/2026-07-14.html`: 60 previous verified matches
